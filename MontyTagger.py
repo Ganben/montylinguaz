@@ -30,3 +30,10 @@ class MontyTagger:
         # the lexicon fast
 
         # LRP lexicon rule parser
+    
+    def tag(self,text,expand_contractions_p=0,all_pos_p=0,commonsense_p=1):
+        #
+    
+    def tag_tokenized(self,text,all_pos_p=0,commonsense_p=1):
+        #
+    
