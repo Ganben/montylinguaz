@@ -33,7 +33,14 @@ class MontyTagger:
     
     def tag(self,text,expand_contractions_p=0,all_pos_p=0,commonsense_p=1):
         #
+        return
     
     def tag_tokenized(self,text,all_pos_p=0,commonsense_p=1):
+        # here a external tagger can be used oder?
+        return
+
+    def verify_and_repair(self,tagged):
         #
+        return
+
     
