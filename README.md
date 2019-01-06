@@ -5,3 +5,6 @@ original author: Hugo Liu
 
 ## Details
 
+## deps
+- pygtrie: a trie implement by google
+- jieba: chinese sentence cutter and pos tagger
